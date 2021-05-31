@@ -1,0 +1,12 @@
+C:\Users\Eduardo\Desktop\Agenda\AgendaPrueba\AgendaPrueba\bin\Debug\AgendaPrueba.exe.config
+C:\Users\Eduardo\Desktop\Agenda\AgendaPrueba\AgendaPrueba\bin\Debug\AgendaPrueba.exe
+C:\Users\Eduardo\Desktop\Agenda\AgendaPrueba\AgendaPrueba\bin\Debug\AgendaPrueba.pdb
+C:\Users\Eduardo\Desktop\Agenda\AgendaPrueba\AgendaPrueba\obj\Debug\AgendaPrueba.csprojAssemblyReference.cache
+C:\Users\Eduardo\Desktop\Agenda\AgendaPrueba\AgendaPrueba\obj\Debug\AgendaPrueba.frmLogin.resources
+C:\Users\Eduardo\Desktop\Agenda\AgendaPrueba\AgendaPrueba\obj\Debug\AgendaPrueba.Properties.Resources.resources
+C:\Users\Eduardo\Desktop\Agenda\AgendaPrueba\AgendaPrueba\obj\Debug\AgendaPrueba.csproj.GenerateResource.cache
+C:\Users\Eduardo\Desktop\Agenda\AgendaPrueba\AgendaPrueba\obj\Debug\AgendaPrueba.exe
+C:\Users\Eduardo\Desktop\Agenda\AgendaPrueba\AgendaPrueba\obj\Debug\AgendaPrueba.pdb
+C:\Users\Eduardo\Desktop\Agenda\AgendaPrueba\AgendaPrueba\obj\Debug\AgendaPrueba.frmAddUser.resources
+C:\Users\Eduardo\Desktop\Agenda\AgendaPrueba\AgendaPrueba\obj\Debug\AgendaPrueba.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Desktop\Agenda\AgendaPrueba\AgendaPrueba\obj\Debug\AgendaPrueba.frmMenu.resources
